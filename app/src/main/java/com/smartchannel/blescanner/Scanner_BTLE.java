@@ -51,6 +51,7 @@ public class Scanner_BTLE {
         }
     }
 
+
     public void stop() {
         scanLeDevice(false);
     }
